@@ -37,7 +37,7 @@ The lab consists of the following steps:
 To get started with the lab, clone the lab repository from the following GitHub link:
 
 ```
-Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard.ipynb
+[Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard.ipynb](https://github.com/chndrkant/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard.git)
 ```
 
 Alternatively, you can simply download the repository as a ZIP file and extract it to your local machine.
